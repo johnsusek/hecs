@@ -1,0 +1,6 @@
+-lib heaps
+-lib box2d
+# -lib hlsdl
+# -hl build/main.hl
+-js build/Main.js
+-main Main
